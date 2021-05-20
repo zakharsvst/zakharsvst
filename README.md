@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zakharsvst, also known as Zakhar Savosteiko
 - 👀 I’m interested in gaming, reading ;)
 - 🌱 I’m currently learning: Python
-- 📫 How to reach me ...
+- 📫 How to reach me: zah88savo@gmail.com
 
 <!---
 zakharsvst/zakharsvst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
